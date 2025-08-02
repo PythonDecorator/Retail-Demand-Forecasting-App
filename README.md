@@ -1,7 +1,5 @@
 # Retail-Demand-Forecasting-App
 
----
-
 ## 📘 Introduction
 In the retail sector, accurately predicting product demand is crucial for optimizing inventory levels, avoiding overstock/understock situations, and reducing operational costs. This app uses historical sales data and time series forecasting models to generate reliable product demand predictions at store level, and presents the results via an interactive web dashboard.
 
@@ -16,6 +14,10 @@ In the retail sector, accurately predicting product demand is crucial for optimi
 - Minimizes excess inventory and storage costs
 - Improves supply chain efficiency
 - Informs marketing/promotion decisions
+
+## Data Source
+✅ 1. Rossmann Store Sales (Kaggle)
+🔗 Link: https://www.kaggle.com/c/rossmann-store-sales/data
 
 ## 📊 Core Features
 🗂️ Multi-store support	Forecast demand for specific store-product pairs
